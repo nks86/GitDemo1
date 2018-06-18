@@ -1,0 +1,4 @@
+git config --global user.email "nks.usingh86@gmail.com"
+git config --global user.name "Neeraj kumar Singh"
+
+----------------------
